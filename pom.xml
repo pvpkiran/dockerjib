@@ -40,12 +40,15 @@
                 <artifactId>jib-maven-plugin</artifactId>
                 <version>1.3.0</version>
                 <configuration>
-                <to>
+                <!--<to>
                     <image>docker.io/pvpkiran/testingjib</image>
                     <tags>
                       <tag>first</tag>
                     </tags>
-                </to>
+                </to>-->
+                    <to>
+                        <image>gcr.io/arched-shuttle-243409/dockerjib</image>
+                    </to>
                 </configuration>
             </plugin>
         </plugins>
