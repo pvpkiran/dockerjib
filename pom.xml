@@ -47,7 +47,7 @@
                     </tags>
                 </to>-->
                     <to>
-                        <image>gcr.io/arched-shuttle-243409/dockerjib</image>
+                        <image>gcr.io/${env.GOOGLE_CLOUD_PROJECT}/dockerjib:v1</image>
                     </to>
                 </configuration>
             </plugin>
