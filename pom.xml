@@ -41,7 +41,7 @@
                 <version>1.3.0</version>
                 <configuration>
                 <!--<to>
-                    <image>docker.io/pvpkiran/testingjib</image>
+                    <image>docker.io/{dockerid}/testingjib</image>
                     <tags>
                       <tag>first</tag>
                     </tags>
